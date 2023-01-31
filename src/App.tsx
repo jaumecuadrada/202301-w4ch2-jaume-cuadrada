@@ -23,13 +23,9 @@ const App = (): JSX.Element => {
             height="270"
             frameBorder="0"
             className="giphy-embed"
+            title="mainGif"
             allowFullScreen
           ></iframe>
-          <p>
-            <a href="https://giphy.com/gifs/mlb-homer-donaldson-obxtPh0zkusBG">
-              via GIPHY
-            </a>
-          </p>
         </div>
       </div>
       <div className="row">
